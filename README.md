@@ -21,5 +21,5 @@
 `resume_clf_mlp.ipynb` — ноутбук с обработкой датасетов с резюме и обучением классификатора профессий
 
 ## Гайд для пользователя
-
+Скачать веса RuBERT-tiny можно здесь: https://www.dropbox.com/scl/fi/rr3pfdga4j3ctfl4ntjok/rubert-tiny-weights.zip?rlkey=jtqcxm12l6xagknbdpyle9rsw&st=87mm93r9&dl=0
 
