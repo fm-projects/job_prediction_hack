@@ -22,4 +22,5 @@
 
 ## Гайд для пользователя
 Скачать веса RuBERT-tiny можно здесь: https://www.dropbox.com/scl/fi/rr3pfdga4j3ctfl4ntjok/rubert-tiny-weights.zip?rlkey=jtqcxm12l6xagknbdpyle9rsw&st=87mm93r9&dl=0
+Ссылка на базовый MLP: https://www.dropbox.com/scl/fi/rail4zvoq9cdm4dn4j2vy/mlp1.pt?rlkey=j4szpyjd1t3inbma6k88a6cnw&st=b2xzedci&dl=0
 
