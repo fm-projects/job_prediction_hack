@@ -18,10 +18,15 @@
 - предложены подходы на базе GPT для решения задач кейса
 
 ## Структура проекта
-`resume_clf_mlp.ipynb` — ноутбук с обработкой датасетов с резюме и обучением классификатора профессий
-`full_launch.ipynb` — ноутбук с полным прогоном по тестовым данным и формированием сабмита
+- `resume_clf_mlp.ipynb` — ноутбук с обработкой датасетов с резюме и обучением классификатора профессий
+- `full_launch.ipynb` — ноутбук с полным прогоном по тестовым данным и формированием сабмита
+- `process_job_list.ipynb` - ноутбук с обработкой списка профессий и его группировкой
+- `inference_regression.py` - файл для инференса регрессионной модели
+- `salary_catboost.ipynb` - ноутбук с кодом обучения регрессионной модели
+- `SAL_model` - веса регрессионной модели
 
 ## Гайд для пользователя
 Скачать веса RuBERT-tiny можно здесь: https://www.dropbox.com/scl/fi/rr3pfdga4j3ctfl4ntjok/rubert-tiny-weights.zip?rlkey=jtqcxm12l6xagknbdpyle9rsw&st=87mm93r9&dl=0
+
 Ссылка на базовый MLP: https://www.dropbox.com/scl/fi/rail4zvoq9cdm4dn4j2vy/mlp1.pt?rlkey=j4szpyjd1t3inbma6k88a6cnw&st=b2xzedci&dl=0
 
